@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Metanail Serum Pro (Official) Get $434 Off + 2 Free Bonuses",
+  "short_name":"Metanail Serum Pro",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Metanail Serum Pro is a natural nail serum that supports healthy nails by eliminating fungus.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
